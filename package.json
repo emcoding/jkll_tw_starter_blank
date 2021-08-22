@@ -1,0 +1,13 @@
+{
+  "name": "jkll_tw_starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:/emcoding/jkll_tw_starter_blank.git",
+  "author": "Maud de Vries <emcoding@pm.me>",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.3.2",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
