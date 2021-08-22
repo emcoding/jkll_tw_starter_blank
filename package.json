@@ -6,6 +6,7 @@
   "author": "Maud de Vries <emcoding@pm.me>",
   "license": "MIT",
   "dependencies": {
+    "@tailwindcss/typography": "^0.4.1",
     "autoprefixer": "^10.3.2",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.7"
