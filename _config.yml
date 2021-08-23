@@ -4,3 +4,9 @@ title: "" # the name of your site, e.g. ACME Corp.
 
 plugins:
   - jekyll-postcss
+
+# NOTE maud: This is config for the sass-converter gem fork. It's needed because the
+# TW typography (v 4.0.1) errors, due to something with the abandonded libsass.
+# See commit 4415a860
+sass:
+  implementation: sass-embedded

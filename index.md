@@ -14,5 +14,5 @@ Start developing your Jekyll website.
 2. listitem 2
 3. third listitem
 
-[some_link]({{site.name}})
+[some_link]({{ site.url }})
 
